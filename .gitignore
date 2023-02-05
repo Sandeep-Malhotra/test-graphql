@@ -1,0 +1,11 @@
+# Node Modules
+node_modules/
+
+# Build Folder
+dist/
+
+# Text File
+*.txt
+
+# VS Code
+.vscode/
